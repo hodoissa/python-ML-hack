@@ -1,2 +1,2 @@
 # python-ML-hack
-A Python hackathon in collaboration with ONS Data Science Campus
+A Python Machine Learning hackathon in collaboration with ONS Data Science Campus
